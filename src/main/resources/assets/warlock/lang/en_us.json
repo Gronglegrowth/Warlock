@@ -1,5 +1,33 @@
 {
-  "itemGroup.warlock": "Example Mod Tab",
-  "block.warlock.example_block": "Example Block",
-  "item.warlock.example_item": "Example Item"
+  "itemGroup.warlock": "Warlock",
+
+  "block.warlock.censer": "Censer",
+
+  "item.warlock.incense_entreats_patron": "...this would surely entreat %s.",
+  "item.warlock.clerical_incense": "Clerical Incense",
+  "item.warlock.clerical_incense.tooltip": "It's said that sleeping under this mixture's effects wards off night terrors.",
+  "item.warlock.incense_eternal": "Timeless Incense",
+  "item.warlock.incense_eternal.tooltip": "A blend old as time, used by seekers of youth everlasting for millennia...",
+  "item.warlock.incense_fiend": "Hellish Incense",
+  "item.warlock.incense_fiend.tooltip": "Smells of fire, brimstone, and blood...",
+  "item.warlock.incense_fey": "Woodsy Incense",
+  "item.warlock.incense_fey.tooltip": "If you listen close, you hear faint birdsong and laughter...",
+  "item.warlock.incense_light": "Radiant Incense",
+  "item.warlock.incense_light.tooltip": "It promises to enlighten, to purify, all it can see...",
+  "item.warlock.incense_machine": "Mechanical Incense",
+  "item.warlock.incense_machine.tooltip": "The more ecclesiastical engineers swear by blends like this...",
+  "item.warlock.incense_masque": "Storytelling Incense",
+  "item.warlock.incense_masque.tooltip": "You witness in its grain, good tidings...",
+  "item.warlock.incense_revenant": "Deathly Incense",
+  "item.warlock.incense_revenant.tooltip": "The stench of rot and decay clings to this mixture...",
+  "item.warlock.incense_thing_outside": "Weird Incense",
+  "item.warlock.incense_thing_outside.tooltip": "Even thinking about it makes you uneasy...",
+  "item.warlock.incense_star": "Celestial Incense",
+  "item.warlock.incense_star.tooltip": "It feels as if it ought to carry the whimsical knowledge of the stars above...",
+  "item.warlock.incense_sword": "Honed Incense",
+  "item.warlock.incense_sword.tooltip": "This is a focused thing, prepared to stimulate a razor-sharp mind...",
+  "item.warlock.incense_waves": "Watery Incense",
+  "item.warlock.incense_waves.tooltip": "Smells of salt, fish, and the wide open sea...",
+  "item.warlock.incense_wish": "Wishful Incense",
+  "item.warlock.incense_wish_tooltip": "They say the vessel one puts this fortunate mix in matters more than the mix itself..."
 }
